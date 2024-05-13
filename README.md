@@ -2,7 +2,7 @@
 # Hi, I am Randeep!
 
 
-<h4 align="center">"🚀 Passionate Developer | 🌐 Exploring the Digital Universe | 🎨 Crafting Lines of Code | 📚 Lifelong Learner | ✨ Turning Ideas into Reality <br><br>👋 Hey there, I'm Randeep Chauhan – an engineer with a passion for leveraging cutting-edge tech to create solutions that improve lives. A mobile Developer, committed to excellence and growth.</h4>
+<h4 align="center">"🚀 Passionate Developer | 🌐 Exploring the Digital Universe | 🎨 Crafting Lines of Code | 📚 Lifelong Learner | ✨ Turning Ideas into Reality <br><br>👋 Hey there, I'm Randeep Chauhan – an engineer with a passion for leveraging cutting-edge tech to create solutions that improve lives. A backend architect, committed to excellence and growth.</h4>
 
 ###
 
